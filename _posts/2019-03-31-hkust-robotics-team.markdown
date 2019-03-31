@@ -16,11 +16,11 @@ MATE ROV - challenges K-12, community college, and university students from all 
 
 Intelligent Car Racing - aims to encourage students to apply circuit design, mechanics knowledge, embedded software programming, and control theories in smart model car racing. The fastest car to complete the track without derailing wins the competition.
 
-As mentioned HKUST Robotics team consist of academically very strong students, due to this reason team has many awards:
+As mentioned HKUST Robotics team consist of academically very strong students, due to this reason team has many awards [[4]][link 4]:
 
 ![Robocon](https://raw.githubusercontent.com/404akhan/startjekyll/gh-pages/includes/rob1.png){:class="img-responsive"}
-![ROV Underwater Robot](https://raw.githubusercontent.com/404akhan/startjekyll/gh-pages/includes/rob1.png){:class="img-responsive"}
-![Intelligent Car Racing](https://raw.githubusercontent.com/404akhan/startjekyll/gh-pages/includes/rob1.png){:class="img-responsive"}
+![ROV Underwater Robot](https://raw.githubusercontent.com/404akhan/startjekyll/gh-pages/includes/rob2.png){:class="img-responsive"}
+![Intelligent Car Racing](https://raw.githubusercontent.com/404akhan/startjekyll/gh-pages/includes/rob3.png){:class="img-responsive"}
 
 How to get into the team? <br/>
 Each year in the fall semester they recruite new students to their team. Usually there are more 1st year students who would like to join, much less 2nd year students, and almost no 3rd or 4th year students. This is because being part of Robotics team is a lot of commitment and it has huge workload and it is considered as too late to come on 3rd or 4th year. The recruitment process goes by filling online application, then being called by Robotics members for an interview. In successfull pass of interview, they gather all possible newcomers and divide them into the teams of around 10 and assign them supervisors. Throughout fall semester possible newcomers have weekly lectures and practices. Until the end of the semester they try to build a functioning robot for an internal competition organized by robotics team to evaluate possible newcomers. Based on the performance on the lectures and final competition, new members for the Robotics team are selected. If you would like to know how serious competition is and how much skill throughout lectures and additional gatherings with supervisors possible newcomers need to learn to compete, here is a video of an internal competition to select newcomers.
