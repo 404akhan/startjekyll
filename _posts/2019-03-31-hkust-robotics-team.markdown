@@ -28,8 +28,8 @@ Each year in the fall semester they recruite new students to their team. Usually
 <iframe width="420" height="315" src="https://www.youtube.com/embed/aryFjliFHjQ" frameborder="0" allowfullscreen></iframe>
  <br/>
 Here is a description of the video: <br/>
-This annual competition is a part of the new member recruitment process for the HKUST Robotics Team. Despite the challenging task of this year’s competition, which consisted of developing two different robots, training members were able to come up with amazing robot designs and there were a lot of exciting moments throughout the competition as they demonstrated their unique techniques. <br/>
-The senior members of the Robotics Team supported the training members throughout the preparation and development of their robots, providing them with tutorials on electronics, mechanics and software programming. The senior members were also largely involved in organizing the competition.
+"This annual competition is a part of the new member recruitment process for the HKUST Robotics Team. Despite the challenging task of this year’s competition, which consisted of developing two different robots, training members were able to come up with amazing robot designs and there were a lot of exciting moments throughout the competition as they demonstrated their unique techniques. <br/>
+The senior members of the Robotics Team supported the training members throughout the preparation and development of their robots, providing them with tutorials on electronics, mechanics and software programming. The senior members were also largely involved in organizing the competition."
 
 
 If you would like to gain more information, here is a video promoting HKUST Robotics team, with which you can understand their culture.
